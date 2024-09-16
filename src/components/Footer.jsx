@@ -6,14 +6,14 @@ function Footer() {
       <p>© 2024 Miguel Alejandro Uribe Villavicencio</p>
       <div className="social-links">
         <a
-          href="https://github.com/eduardoVela2022"
+          href="https://github.com/AlejnadroVill"
           target="_blank"
           rel="noopener noreferrer"
         >
           GitHub
         </a>
         <a
-          href="https://www.instagram.com/tu_usuario/"
+          href="https://www.instagram.com/alejandrovill1/"
           target="_blank"
           rel="noopener noreferrer"
         >
