@@ -2,6 +2,8 @@ import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import App from "./App.jsx";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import NavBar from "./components/navBar.jsx";
+import Footer from "./components/Footer.jsx";
 import About from "./pages/about.jsx";
 import Portfolio from "./pages/Portfolio.jsx";
 import Resume from "./pages/Resume.jsx";
