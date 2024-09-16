@@ -1,8 +1,6 @@
 function Resume() {
   return (
     <div className="content-container">
-      <PageTitle title="Resume" />
-
       <div className="resume-container">
         <section className="education">
           <h2>Education</h2>
