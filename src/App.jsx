@@ -1,7 +1,8 @@
 import { useState } from "react";
+import { Outlet } from "react-router-dom";
 
 function App() {
-  return <h1>React Portfolio</h1>;
+  return <Outlet />;
 }
 
 export default App;
