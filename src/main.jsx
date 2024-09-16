@@ -4,7 +4,7 @@ import App from "./App.jsx";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import NavBar from "./components/navBar.jsx";
 import Footer from "./components/Footer.jsx";
-import About from "./pages/about.jsx";
+import About from "./pages/About.jsx";
 import Portfolio from "./pages/Portfolio.jsx";
 import Resume from "./pages/Resume.jsx";
 import Contact from "./pages/Contact.jsx";
